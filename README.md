@@ -9,6 +9,9 @@
                                                                         
 ==========================================================================
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=David-Moisan)](https://github.com/anuraghazra/github-readme-stats)
+
+==========================================================================
 <a href="https://app.daily.dev/DavMoiz">
   <img src="https://api.daily.dev/devcards/e523dea3143b4950a20fd83b59d89405.png?r=yw6" width="400" alt="David Moisan's Dev Card"/>
 </a>
