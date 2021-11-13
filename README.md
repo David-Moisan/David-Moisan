@@ -4,7 +4,8 @@
 - 🥇 Licence Chef de projet                                             
 - 🥇 BTS Développeur web et mobile                                      
                                                                        
-- 💬 Back : Python, PHP, JavaScript                                    
+- 💬 Back : 
+<p><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>, <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/1280px-PHP-logo.svg.png" alt="php" width="40" height="40"/>, <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></p>                                   
 - 💬 Front : React.js, CSS3, Bootstrap, Material-UI                    
                                                                         
 ==========================================================================
