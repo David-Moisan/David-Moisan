@@ -1,11 +1,5 @@
 ### David Moisan - Développeur Full Stack Junior 👋      
 
-<img align="center" src='./src/logoA.gif' />
-
-### 📚 Actuellement en Master Ingénieur Informatique avec l'école EPSI   
-
-<p><img align='center' src="https://d7j7m3vbc0co5.cloudfront.net/default/0001/17/a75245c353c1535c7ded94928dbee1b51c0530c7.png" alt="epsi" width="659" height="339" /></p>
-
 ### Diplômes obtenus :
 - 🥇 Licence Chef de projet                                             
 - 🥇 BTS Développeur web et mobile                                      
