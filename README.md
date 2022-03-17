@@ -32,6 +32,6 @@
 
 ### Tech watch  
   
-<a href="https://app.daily.dev/DavMoiz">
+<a align="center" href="https://app.daily.dev/DavMoiz">
   <img src="https://api.daily.dev/devcards/e523dea3143b4950a20fd83b59d89405.png?r=yw6" width="400" alt="David Moisan's Dev Card"/>
 </a>
