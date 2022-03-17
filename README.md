@@ -1,9 +1,9 @@
-<h1 align="center">👋 Hi i'm David Moisan - Junior Full-Stack Developers </h1>     
+<h1 align="center">👋 Hi i'm David Moisan - Junior Web Developers </h1>     
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=David-Moisan&label=Profile%20views&color=0e75b6&style=flat" alt="David-Moisan" /> </p> <p align="left"> <a href="https://twitter.com/phi__code" target="blank"><img src="https://img.shields.io/twitter/follow/phi__code?logo=twitter&style=for-the-badge" alt="phi__code" /></a> </p>
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=David-Moisan" alt="David-Moisan" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=David-Moisan" alt="David-Moisan" /></a> </p>
 
 <h3 align="left">Connect with me :</h3>
 
