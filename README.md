@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi i'm David Moisan - Junior Web Developers </h1>     
+<h1 align="center">👋 Hi i'm David Moisan - Full-Stack Developer </h1>     
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=David-Moisan&label=Profile%20views&color=0e75b6&style=flat" alt="David-Moisan" /> </p> <p align="left"> <a href="https://twitter.com/phi__code" target="blank"><img src="https://img.shields.io/twitter/follow/phi__code?logo=twitter&style=for-the-badge" alt="phi__code" /></a> </p>
 
@@ -12,7 +12,7 @@
                                                                        
 ### 💬 Languages and tools : 
 
-<p align="left"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/1280px-PHP-logo.svg.png" alt="php" width="40" height="40"/>  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/> <img src="https://seeklogo.com/images/S/symfony-logo-AA34C8FC16-seeklogo.com.png" alt="symfony" width="40" height="40"/> </p>                                   
+<p align="left"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/1280px-PHP-logo.svg.png" alt="php" width="40" height="40"/> <img src="https://seeklogo.com/images/S/symfony-logo-AA34C8FC16-seeklogo.com.png" alt="symfony" width="40" height="40"/> </p>                                   
 <p> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1280px-Bootstrap_logo.svg.png" alt="bootstrap" width="40" height="40"/> <img src="https://cdn.worldvectorlogo.com/logos/element-ui-1.svg" alt="material-ui" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
   
 </p>
