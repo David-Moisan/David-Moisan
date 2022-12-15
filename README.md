@@ -1,24 +1,50 @@
 <h1 align="center">👋 Hi i'm David Moisan - French Full-Stack Developer </h1>     
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=David-Moisan&label=Profile%20views&color=0e75b6&style=flat" alt="David-Moisan" /> </p> <p align="left"> <a href="https://twitter.com/phi__code" target="blank"><img src="https://img.shields.io/twitter/follow/phi__code?logo=twitter&style=for-the-badge" alt="phi__code" /></a> </p>
+<img src="https://www.cjoint.com/doc/22_12/LLpputD4k5t_123test.jpg" alt="background-image" />
+
+<p align="center"> <a href="https://twitter.com/phi__code" target="blank"><img src="https://img.shields.io/twitter/follow/phi__code?style=social" alt="twitter @phi_and_code" /></a> <img src="https://img.shields.io/github/followers/David-Moisan?style=social" alt="Number of Follower in my Github"/> <a href="https://www.youtube.com/@phi_and_code2521" target="blank"><img src="https://img.shields.io/youtube/channel/views/UCpcxEt-JoSN0a2ozLLPjNDw?style=social" alt="Youtube Channel"/></a></p> 
 
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=David-Moisan" alt="David-Moisan" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=David-Moisan&row=2&column=4&theme=dracula" alt="David-Moisan" /></a> </p>
+<hr/>
 
-<h3 align="left">Connect with me :</h3>
+<p>
+Hello everyone, my name is David Moisan and I am a 31-year-old full stack developer. I have been working as a developer for 3 years, and I have experience in a wide range of technologies, including PHP, JavaScript, and CSS. I am passionate about creating high-quality applications that are user-friendly, efficient, and scalable. In my free time, I enjoy learning new technologies and staying up-to-date with the latest developments in the field of software development. 
+</p>
 
-<a href="https://www.linkedin.com/in/david-moisan-6251331a5/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="David-Moisan" height="30" width="40" /></a>
-<a href="https://twitter.com/phi__code" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="phi__code" height="30" width="40" /></a>
-                                                                       
-### 💬 Languages and tools : 
+<h2 align="left">Connect with me :</h2>
 
-<p align="left"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/1280px-PHP-logo.svg.png" alt="php" width="40" height="40"/> <img src="https://seeklogo.com/images/S/symfony-logo-AA34C8FC16-seeklogo.com.png" alt="symfony" width="40" height="40"/> </p>                                   
-<p> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1280px-Bootstrap_logo.svg.png" alt="bootstrap" width="40" height="40"/> <img src="https://cdn.worldvectorlogo.com/logos/element-ui-1.svg" alt="material-ui" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
-  
+<p align="center"><a href="https://www.linkedin.com/in/david-moisan-6251331a5/" target="blank"><img align="center" src="https://img.icons8.com/external-justicon-flat-justicon/64/null/external-linkedin-social-media-justicon-flat-justicon.png" alt="David-Moisan"/></a>
+<a href="https://twitter.com/phi__code" target="blank"><img align="center" src="https://img.icons8.com/3d-fluency/94/null/twitter-circled.png" alt="phi__code"/></a>
+  <a href="https://www.youtube.com/@phi_and_code2521" target="blank"><img align="center" src="https://img.icons8.com/3d-fluency/94/null/youtube-play.png"/></a>
+</p>
+
+<h2 align="left">💬 Languages and tools :</h2> 
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/symfony/symfony-original.svg" alt="symfony" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg" alt="mui" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/threejs/threejs-original.svg" alt="threejs" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" alt="django" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" alt="sqlite" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/blender/blender-original.svg" alt="blender" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg" alt="unity" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opengl/opengl-original.svg" alt="opengl" width="40" height="40"/>
 </p>
                                                                         
 
-### GitHub Analytics
+<h2 align="left">GitHub Analytics</h2>
 
 <p align='center'>
   <a href="https://github.com/David-Moisan">
@@ -27,10 +53,7 @@
   </a>
 </p>
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=David-Moisan&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-
-### Tech watch  
+<h2 align="left">Tech watch</h2>  
   
 <a href="https://app.daily.dev/DavMoiz">
   <p align="center">
