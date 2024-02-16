@@ -9,7 +9,7 @@
 <hr/>
 
 <p>
-Hello everyone, my name is David Moisan and I am a 31-year-old full stack developer. I have been working as a developer for 3 years, and I have experience in a wide range of technologies, including PHP, JavaScript, and CSS. I am passionate about creating high-quality applications that are user-friendly, efficient, and scalable. In my free time, I enjoy learning new technologies and staying up-to-date with the latest developments in the field of software development. 
+Hello everyone, my name is David Moisan and I am a 31-year-old full stack developer. I have been working as a developer for 3 years, and I have experience in a wide range of technologies, including PHP/Symfony, JavaScript/React.js/Stimulus.js. I am passionate about creating high-quality applications that are user-friendly, efficient, and scalable. In my free time, I enjoy learning new technologies and staying up-to-date with the latest developments in the field of software development. 
 </p>
 
 <h2 align="left">Connect with me :</h2>
@@ -30,7 +30,6 @@ Hello everyone, my name is David Moisan and I am a 31-year-old full stack develo
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg" alt="mui" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/threejs/threejs-original.svg" alt="threejs" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" alt="django" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/>
