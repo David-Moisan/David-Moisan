@@ -2,7 +2,7 @@
 
 <img src="https://www.cjoint.com/doc/22_12/LLpputD4k5t_123test.jpg" alt="background-image" />
 
-<p align="center"> <a href="https://twitter.com/phi__code" target="blank"><img src="https://img.shields.io/twitter/follow/phi__code?style=social" alt="twitter @phi_and_code" /></a> <img src="https://img.shields.io/github/followers/David-Moisan?style=social" alt="Number of Follower in my Github"/> <a href="https://www.youtube.com/@phi_and_code2521" target="blank"><img src="https://img.shields.io/youtube/channel/views/UCpcxEt-JoSN0a2ozLLPjNDw?style=social" alt="Youtube Channel"/></a></p> 
+<p align="center"> <a href="https://twitter.com/phi__code" target="blank"><img src="https://img.shields.io/twitter/follow/phi__code?style=social" alt="twitter @phi_and_code" /></a> <img src="https://img.shields.io/github/followers/David-Moisan?style=social" alt="Number of Follower in my Github"/></p> 
 
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=David-Moisan&row=2&column=4&theme=dracula" alt="David-Moisan" /></a> </p>
@@ -15,31 +15,21 @@ Hello everyone, my name is David Moisan and I am a 31-year-old full stack develo
 <h2 align="left">Connect with me :</h2>
 
 <p align="center"><a href="https://www.linkedin.com/in/david-moisan-6251331a5/" target="blank"><img align="center" src="https://img.icons8.com/external-justicon-flat-justicon/64/null/external-linkedin-social-media-justicon-flat-justicon.png" alt="David-Moisan"/></a>
-<a href="https://twitter.com/phi__code" target="blank"><img align="center" src="https://img.icons8.com/3d-fluency/94/null/twitter-circled.png" alt="phi__code"/></a>
-  <a href="https://www.youtube.com/@phi_and_code2521" target="blank"><img align="center" src="https://img.icons8.com/3d-fluency/94/null/youtube-play.png"/></a>
-</p>
+<a href="https://twitter.com/phi__code" target="blank"><img align="center" src="https://img.icons8.com/3d-fluency/94/null/twitter-circled.png" alt="phi__code"/></a></p>
 
 <h2 align="left">💬 Languages and tools :</h2> 
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/symfony/symfony-original.svg" alt="symfony" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/threejs/threejs-original.svg" alt="threejs" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" alt="django" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" alt="sqlite" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/blender/blender-original.svg" alt="blender" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg" alt="unity" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opengl/opengl-original.svg" alt="opengl" width="40" height="40"/>
 </p>
                                                                         
 
