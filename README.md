@@ -37,8 +37,8 @@ Hello everyone, my name is David Moisan and I am a 31-year-old full stack develo
 
 <p align='center'>
   <a href="https://github.com/David-Moisan">
-    <img height="180em" width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=David-Moisan&show_icons=true&theme=dracula" />
-    <img height="180em" width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=David-Moisan&layout=compact&langs_count=8&theme=dracula"/>
+    <img height="180em" width="49%" src="https://github-readme-stats-iota-blush-19.vercel.app/api?username=David-Moisan&show_icons=true&theme=dracula" />
+    <img height="180em" width="49%" src="https://github-readme-stats-iota-blush-19.vercel.app/api/top-langs/?username=David-Moisan&layout=compact&langs_count=8&theme=dracula"/>
   </a>
 </p>
 
