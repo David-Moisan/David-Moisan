@@ -46,6 +46,6 @@ Hello everyone, my name is David Moisan and I am a 31-year-old full stack develo
   
 <a href="https://app.daily.dev/DavMoiz">
   <p align="center">
-    <img src="https://api.daily.dev/devcards/e523dea3143b4950a20fd83b59d89405.png?r=yw6" width="400" alt="David Moisan's Dev Card"/>
+    <img src="https://api.daily.dev/devcards/v2/qd-Cr2WIG.png?type=wide&r=rjb" width="652" alt="David Moisan's Dev Card"/>
   </p>
 </a>
