@@ -9,7 +9,15 @@
 <hr/>
 
 <p>
-Hello everyone, my name is David Moisan and I am a 31-year-old full stack developer. I have been working as a developer for 3 years, and I have experience in a wide range of technologies, including PHP/Symfony, JavaScript/React.js/Stimulus.js. I am passionate about creating high-quality applications that are user-friendly, efficient, and scalable. In my free time, I enjoy learning new technologies and staying up-to-date with the latest developments in the field of software development. 
+👋 Salut à tous ! Je m'appelle David, un développeur full stack de 33 ans passionné par la création d'applications innovantes et de haute qualité.
+
+🚀 Avec 4 années d'expérience dans le développement, je me suis spécialisé dans un large éventail de technologies, notamment PHP/Symfony, JavaScript/React.js/Stimulus.js.
+
+💡 Mon objectif principal est de concevoir des applications conviviales, performantes et évolutives qui répondent aux besoins des utilisateurs.
+
+📚 En dehors du développement, j'aime explorer de nouvelles technologies et rester à l'affût des dernières avancées dans le domaine du développement logiciel.
+
+✉️ N'hésitez pas à me contacter pour discuter de collaborations passionnantes ou de projets innovants !
 </p>
 
 <h2 align="left">Connect with me :</h2>
