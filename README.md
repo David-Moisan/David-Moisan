@@ -1,23 +1,13 @@
-<h1 align="center">👋 Hi i'm David Moisan - French Full-Stack Developer </h1>     
+<h1 align="center">👋 Hi i'm David Moisan - Full-Stack Developer </h1>     
 
-<img src="https://www.cjoint.com/doc/22_12/LLpputD4k5t_123test.jpg" alt="background-image" />
+<p align="center"> <a href="https://twitter.com/phi__code" target="blank"><img src="https://img.shields.io/twitter/follow/phi__code?style=social" alt="twitter @phi_and_code" /></a>
 
-<p align="center"> <a href="https://twitter.com/phi__code" target="blank"><img src="https://img.shields.io/twitter/follow/phi__code?style=social" alt="twitter @phi_and_code" /></a> <img src="https://img.shields.io/github/followers/David-Moisan?style=social" alt="Number of Follower in my Github"/></p> 
-
-
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=David-Moisan&row=2&column=4&theme=dracula" alt="David-Moisan" /></a> </p>
 <hr/>
 
 <p>
-👋 Salut à tous ! Je m'appelle David, un développeur full stack de 33 ans passionné par la création d'applications innovantes et de haute qualité.
+👋 Hello my name is David, a full-stack developer passionate about creating innovative, high-quality applications.
 
-🚀 Avec 4 années d'expérience dans le développement, je me suis spécialisé dans un large éventail de technologies, notamment PHP/Symfony, JavaScript/React.js/Stimulus.js.
-
-💡 Mon objectif principal est de concevoir des applications conviviales, performantes et évolutives qui répondent aux besoins des utilisateurs.
-
-📚 En dehors du développement, j'aime explorer de nouvelles technologies et rester à l'affût des dernières avancées dans le domaine du développement logiciel.
-
-✉️ N'hésitez pas à me contacter pour discuter de collaborations passionnantes ou de projets innovants !
+✉️ Please feel free to get in touch to discuss exciting collaborations or innovative projects!
 </p>
 
 <h2 align="left">Connect with me :</h2>
@@ -39,21 +29,4 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40">
 </p>
-                                                                        
-
-<h2 align="left">GitHub Analytics</h2>
-
-<p align='center'>
-  <a href="https://github.com/David-Moisan">
-    <img height="180em" width="49%" src="https://github-readme-stats-iota-blush-19.vercel.app/api?username=David-Moisan&show_icons=true&theme=dracula" />
-    <img height="180em" width="49%" src="https://github-readme-stats-iota-blush-19.vercel.app/api/top-langs/?username=David-Moisan&layout=compact&langs_count=8&theme=dracula"/>
-  </a>
-</p>
-
-<h2 align="left">Tech watch</h2>  
-  
-<a href="https://app.daily.dev/DavMoiz">
-  <p align="center">
-    <img src="https://api.daily.dev/devcards/v2/qd-Cr2WIG.png?type=wide&r=rjb" width="652" alt="David Moisan's Dev Card"/>
-  </p>
-</a>
+                                                                    
